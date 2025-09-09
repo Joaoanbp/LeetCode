@@ -1,2 +1,2 @@
 # LeetCode
-Repo made only for leetcode that i solved.
+Repo made for competitive programmiing studies with leetcode that i solved.
